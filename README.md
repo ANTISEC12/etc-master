@@ -1,2 +1,2 @@
-# resumee
+# Kind of history
 # etc-master
