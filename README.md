@@ -18,8 +18,9 @@ This is the beginning of the main infrastructure project and documentation of de
 
 2. K8s Shared Volumes
 
+3. Setup LouadBalancing & API Gateway 
 
-3. Implementation Microsevices & Database 
+4. Implementation Microsevices & Database 
 ## Tech Stack
 
 **Client:** React, Laravel, Next.js...
@@ -29,10 +30,10 @@ This is the beginning of the main infrastructure project and documentation of de
 
 ## License
 
-
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 
 ## Authors
 
-- [@antisec](https://www.github.com/ANTISEC12)
+- [@antisec12](https://www.github.com/ANTISEC12)
 
